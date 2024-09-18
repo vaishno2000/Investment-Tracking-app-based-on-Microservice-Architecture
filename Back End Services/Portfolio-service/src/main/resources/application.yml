@@ -1,0 +1,21 @@
+Spring:
+  application:
+    name: portfolio-service
+  data:
+    mongodb:
+      database: investmentTracker
+      port: 27017
+      host: localhost
+
+server:
+  port: 8085
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+    fetch-registry: true
+    register-with-eureka: true
+
+
+

@@ -1,0 +1,41 @@
+.watchlistheader {
+  background-color: #5a287d;
+  width: 100%;
+  padding: 10px;
+}
+
+.wbtn {
+  background-color: #f3eaf9;
+  color: black;
+  width: 250px;
+}
+
+.wbtn:hover {
+  color: white;
+}
+
+.wbtn:focus {
+  color: white;
+  background-color: #5a287d;
+}
+
+.white-text {
+  color: white !important;
+}
+
+.green {
+  color: green !important;
+  font-weight: bolder;
+}
+
+.red {
+  color: red !important;
+  font-weight: bolder;
+}
+
+.tablebody {
+  min-height: 75vh;
+  /* background-color: #f3eaf9; */
+  background-color: lavender;
+  padding: 10px;
+}

@@ -1,0 +1,13 @@
+nav {
+  background-color: rgba(60, 16, 83, 1);
+  color: white;
+}
+
+.white-text {
+  color: white !important;
+}
+
+.navbtn {
+  background-color: #5a287d;
+  border-radius: 20px;
+}

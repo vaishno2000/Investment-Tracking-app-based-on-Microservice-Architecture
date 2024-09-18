@@ -1,0 +1,17 @@
+.sbtn:disabled {
+  color: white;
+}
+
+.sbtn::selection {
+  color: white;
+}
+
+.scrollable-dropdown {
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+
+.white-text {
+  color: white !important;
+} 

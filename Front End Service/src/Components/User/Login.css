@@ -1,0 +1,15 @@
+#log{
+    background-color:rgb(90, 40, 125);
+}
+#logBtn{
+    background-color: rgba(60, 16, 83, 1);
+}
+#loginContainer{
+    /* background-color: rgb(200, 184, 215); */
+    
+}
+#ErrorLog{
+    font-size: 18px;
+    color:red;
+}
+

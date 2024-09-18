@@ -1,0 +1,81 @@
+.profile-dashboard {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  #profileContainer{
+    background-color: lavender;
+  }
+  h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  #profile-form{
+    background-color:rgb(90, 40, 125);
+    border-radius: 15px;
+  }
+  #profile-btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #profile-btn:hover {
+    background-color: #0056b3;
+  }
+
+  .custom-th {
+    background-color: #007bff; /* Header background color */
+    color: #fff; /* Header text color */
+    font-weight: bold; /* Bold text in headers */
+    text-align: center; /* Center-align header text */
+  }
+  #table-header {
+    background-color: rgb(90, 40, 125);
+    font-weight: bold;
+    color: #fff;
+  }
+  #showPasswordBtn{
+    background-color: rgb(122, 80, 161);
+  }
+    /* table {
+      width: 100%;
+      border-collapse: collapse;
+      border: 1px solid #ccc;
+
+      th, td {
+        padding: 10px;
+        text-align: left;
+        border: 1px solid #ccc;
+      }
+
+      th {
+        background-color: rgb(90, 40, 125);
+        font-weight: bold;
+        color: #fff;
+      }
+    }
+    */

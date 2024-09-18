@@ -1,0 +1,19 @@
+#reg{
+    background-color:rgb(90, 40, 125);
+}
+#regBtn{
+    background-color: rgba(60, 16, 83, 1);
+    border-color: rgb(200, 184, 215);
+}
+#regContainer{
+    /* background-color: lavender; */
+   /*  background-color: #F7F7F7; */
+    /* background-color: white; */
+}
+#Error{
+    color:red;
+    font-size: 20px;
+}
+#Already{
+    font-size: 18px;
+}

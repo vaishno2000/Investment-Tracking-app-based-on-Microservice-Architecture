@@ -1,0 +1,35 @@
+.dbtn {
+  background-color: white;
+  color: black;
+  width: 250px;
+}
+
+.dbtn:hover {
+  color: white;
+}
+
+.dbtn:focus {
+  color: white;
+}
+
+.sbtn {
+  background-color: #f3eaf9;
+  color: black;
+  width: 75%;
+  margin-left: 10px;
+}
+
+.sbtn:hover {
+  color: white;
+}
+
+.sbtn:focus {
+  color: white;
+  background-color: #5a287d;
+}
+
+.scrollable-dropdown {
+  max-height: 200px;
+  max-width: 400px;
+  overflow-y: auto;
+}

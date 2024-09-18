@@ -13,6 +13,9 @@ Note: This app is kind of a paper-trading app and cannot be used for actual buyi
 - MongoDB
 - MySQL
 <br/><br/>
+## Architecture Diagram:
+![Arcitecture Diagram](https://github.com/user-attachments/assets/a7499cda-f28e-404f-adb9-06a3cfeed01b)
+<br/><br/>
 ## Screenshots:
 1. Home Screen
 ![image](https://github.com/user-attachments/assets/c3b37a02-fdfe-4372-9bdf-1b71b4e923bf)
